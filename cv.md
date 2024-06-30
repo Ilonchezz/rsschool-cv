@@ -32,3 +32,15 @@ function findLongestWord(sentence) {
   }
   return longestWord;
 ```
+
+### Education
+- **Molodechno State Medical College**
+ - Specialty: medical nurce
+ - Years Attended: 2015-2017 
+ 
+- **RS School Courses**
+ - Specialty: Frontend Developer
+ - Years Attended: 2024 - now
+### Languages
+- Russian: native
+- English: Pre-Intermediate(A2)
